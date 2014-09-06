@@ -5,15 +5,15 @@ ET-4044
 **Pemrograman Perangkat Telekomunikasi Bergerak**   
 Dr.-Ing. Eueung Mulyana
 
-
 Referensi MOOC
 --------------
-- ...  
-  https://...  
+- Developing Android Apps : Android Fundamentals  
+  https://www.udacity.com/course/ud853  
+  https://github.com/udacity/Sunshine
 
-Referensi Lain + Tools + etc.
+Referensi Lain
 --------------
-- ...  
-  http://...  
-  https://...
+- UX Design for Mobile Developers : Learn to Design a 5-Star Android App
+  https://www.udacity.com/course/ud849
+
 
