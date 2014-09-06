@@ -16,4 +16,8 @@ Referensi Lain
 - UX Design for Mobile Developers : Learn to Design a 5-Star Android App  
   https://www.udacity.com/course/ud849
 
+- Programming Mobile Applications for Android Handheld Systems  
+  https://www.coursera.org/course/android
 
+- Programming Cloud Services for Android Handheld Systems  
+  https://www.coursera.org/course/mobilecloud
