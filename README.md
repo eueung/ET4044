@@ -13,7 +13,7 @@ Referensi MOOC
 
 Referensi Lain
 --------------
-- UX Design for Mobile Developers : Learn to Design a 5-Star Android App
+- UX Design for Mobile Developers : Learn to Design a 5-Star Android App  
   https://www.udacity.com/course/ud849
 
 
