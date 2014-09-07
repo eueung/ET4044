@@ -30,6 +30,12 @@ Tools
 - Eclipse + ADT  
   https://developer.android.com/sdk/index.html  
 
+- Android Asset Studio (@romannurik)  
+  http://romannurik.github.io/AndroidAssetStudio/
+
+- Evolus Pencil  
+  http://pencil.evolus.vn/
+
 Resources
 ---------
 - Android Developers (Official)  
