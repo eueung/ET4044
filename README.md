@@ -34,12 +34,11 @@ Resources
 ---------
 - Android Developers (Official)  
   https://developer.android.com/  
+  https://developer.android.com/develop/  (Develop)
+  https://developer.android.com/design/  (Design)
 
-- Develop  
-  https://developer.android.com/develop/
-
-- Design  
-  https://developer.android.com/design/
+- Awesome Android  
+  https://github.com/JStumpp/awesome-android  
 
 Patterns
 --------
