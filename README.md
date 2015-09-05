@@ -1,4 +1,4 @@
-PPTB - H2/2014
+PPTB - H2/2015
 ==============
 
 ET-4044  
@@ -9,7 +9,17 @@ Referensi MOOC
 --------------
 - Developing Android Apps : Android Fundamentals  
   https://www.udacity.com/course/ud853  
-  https://github.com/udacity/Sunshine
+  https://github.com/udacity/Sunshine-Version-2  
+  Previous version: https://github.com/udacity/Sunshine
+- Android Development for Beginners  
+  https://www.udacity.com/course/ud837  
+  XML Visualizer: http://labs.udacity.com/android-visualizer/#/android/sandbox
+- How to Install Android Studio  
+  https://www.udacity.com/course/ud808
+
+Slides
+--------------
+- TBA
 
 MOOC Lain
 --------------
