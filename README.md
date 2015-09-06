@@ -3,6 +3,7 @@ PPTB - H2/2015
 
 ET-4044  
 **Pemrograman Perangkat Telekomunikasi Bergerak**   
+**Programming Mobile Devices** (Android)  
 Dr.-Ing. Eueung Mulyana
 
 Referensi MOOC
@@ -35,9 +36,10 @@ MOOC Lain
 Tools
 -----
 - Android Studio   
+  https://developer.android.com/sdk/index.html   
   https://developer.android.com/sdk/installing/studio.html  
 
-- Eclipse + ADT  
+- Eclipse + ADT  (less preferred)  
   https://developer.android.com/sdk/index.html  
 
 - Android Asset Studio (@romannurik)  
