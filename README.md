@@ -6,7 +6,7 @@ ET-4044
 **Programming Mobile Devices** (Android)  
 Dr.-Ing. Eueung Mulyana
 
-Referensi MOOC
+MOOC (Reference)
 --------------
 - Developing Android Apps : Android Fundamentals  
   https://www.udacity.com/course/ud853  
@@ -20,9 +20,10 @@ Referensi MOOC
 
 Slides
 --------------
-- TBA
+- [Introduction](https://speakerdeck.com/eueung/pptb)
+- [Strategy | Android Development](https://speakerdeck.com/eueung/pptb-1)
 
-MOOC Lain
+MOOC (Others)
 --------------
 - UX Design for Mobile Developers : Learn to Design a 5-Star Android App  
   https://www.udacity.com/course/ud849
@@ -32,6 +33,19 @@ MOOC Lain
 
 - Programming Cloud Services for Android Handheld Systems  
   https://www.coursera.org/course/mobilecloud
+
+MOOC (Advanced)
+--------------
+- Advanced Android App Development  
+  https://www.udacity.com/course/ud855
+- Android Wear Development  
+  https://www.udacity.com/course/ud875A
+- Android TV and Google Cast Development  
+  https://www.udacity.com/course/ud875B
+- Android Auto Development  
+  https://www.udacity.com/course/ud875C
+- Android Design for Developers  
+  https://www.udacity.com/course/ud862
 
 Tools
 -----
