@@ -22,6 +22,7 @@ Slides
 --------------
 - [Introduction](https://speakerdeck.com/eueung/pptb)
 - [Strategy | Android Development](https://speakerdeck.com/eueung/pptb-1)
+- [Udacity-01: Overview](https://speakerdeck.com/eueung/pptb-03)
 
 MOOC (Others)
 --------------
