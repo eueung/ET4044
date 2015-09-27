@@ -25,6 +25,7 @@ Slides
 - [Udacity-01: Overview](https://speakerdeck.com/eueung/pptb-03)
 - [Udacity-02: Development Intro](https://speakerdeck.com/eueung/pptb-04-01)
 - [Design & Plan](https://speakerdeck.com/eueung/pptb-04-02)
+- [Udacity-03: Start Building the App](https://speakerdeck.com/eueung/pptb-05)
 
 MOOC (Others)
 --------------
