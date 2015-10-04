@@ -26,6 +26,8 @@ Slides
 - [Udacity-02: Development Intro](https://speakerdeck.com/eueung/pptb-04-01)
 - [Design & Plan](https://speakerdeck.com/eueung/pptb-04-02)
 - [Udacity-03: Start Building the App](https://speakerdeck.com/eueung/pptb-05)
+- [Udacity-04: Connect to the Cloud #1](https://speakerdeck.com/eueung/pptb-06)
+- [Udacity-05: Connect to the Cloud #2](https://speakerdeck.com/eueung/pptb-07)
 
 MOOC (Others)
 --------------
