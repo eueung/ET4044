@@ -4,7 +4,9 @@ PPTB - H2/2015
 ET-4044  
 **Pemrograman Perangkat Telekomunikasi Bergerak**   
 **Programming Mobile Devices** (Android)  
-Dr.-Ing. Eueung Mulyana
+Dr.-Ing. Eueung Mulyana  
+**Institut Teknologi Bandung**  
+eueung(-at-)stei.itb.ac.id
 
 MOOC (Reference)
 --------------
@@ -23,11 +25,12 @@ Slides
 - [Introduction](https://speakerdeck.com/eueung/pptb)
 - [Strategy | Android Development](https://speakerdeck.com/eueung/pptb-1)
 - [Udacity-01: Overview](https://speakerdeck.com/eueung/pptb-03)
-- [Udacity-02: Development Intro](https://speakerdeck.com/eueung/pptb-04-01)
+- [Udacity-01: Development Intro](https://speakerdeck.com/eueung/pptb-04-01)
 - [Design & Plan](https://speakerdeck.com/eueung/pptb-04-02)
-- [Udacity-03: Start Building the App](https://speakerdeck.com/eueung/pptb-05)
-- [Udacity-04: Connect to the Cloud #1](https://speakerdeck.com/eueung/pptb-06)
-- [Udacity-05: Connect to the Cloud #2](https://speakerdeck.com/eueung/pptb-07)
+- [Udacity-01: Start Building the App](https://speakerdeck.com/eueung/pptb-05)
+- [Udacity-02: Connect to the Cloud #1](https://speakerdeck.com/eueung/pptb-06)
+- [Udacity-02: Connect to the Cloud #2](https://speakerdeck.com/eueung/pptb-07)
+- [Udacity-02: Connect to the Cloud #3](https://speakerdeck.com/eueung/pptb-08)
 
 MOOC (Others)
 --------------
