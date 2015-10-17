@@ -32,6 +32,7 @@ Slides
 - [Udacity-02: Connect to the Cloud #2](https://speakerdeck.com/eueung/pptb-07)
 - [Udacity-02: Connect to the Cloud #3](https://speakerdeck.com/eueung/pptb-08)
 - [Udacity-03: Activities and Intents #1](https://speakerdeck.com/eueung/pptb-08-2)
+- [Udacity-03: Activities and Intents #2](https://speakerdeck.com/eueung/pptb-09)
 
 MOOC (Others)
 --------------
