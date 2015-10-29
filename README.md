@@ -8,18 +8,6 @@ Dr.-Ing. Eueung Mulyana
 **Institut Teknologi Bandung**  
 eueung(-at-)stei.itb.ac.id
 
-MOOC (Reference)
---------------
-- Developing Android Apps : Android Fundamentals  
-  https://www.udacity.com/course/ud853  
-  https://github.com/udacity/Sunshine-Version-2  
-  Previous version: https://github.com/udacity/Sunshine
-- Android Development for Beginners  
-  https://www.udacity.com/course/ud837  
-  XML Visualizer: http://labs.udacity.com/android-visualizer/#/android/sandbox
-- How to Install Android Studio  
-  https://www.udacity.com/course/ud808
-
 Slides
 --------------
 - [Introduction](https://speakerdeck.com/eueung/pptb)
@@ -40,6 +28,18 @@ Slides
 - [Udacity-05: Rich and Responsive Layouts #2](https://speakerdeck.com/eueung/pptb-14)
 - [Udacity-05: Rich and Responsive Layouts #3](https://speakerdeck.com/eueung/pptb-15)
 - [Udacity-06: Services and Notifications](https://speakerdeck.com/eueung/pptb-16)
+
+MOOC (Reference)
+--------------
+- Developing Android Apps : Android Fundamentals  
+  https://www.udacity.com/course/ud853  
+  https://github.com/udacity/Sunshine-Version-2  
+  Previous version: https://github.com/udacity/Sunshine
+- Android Development for Beginners  
+  https://www.udacity.com/course/ud837  
+  XML Visualizer: http://labs.udacity.com/android-visualizer/#/android/sandbox
+- How to Install Android Studio  
+  https://www.udacity.com/course/ud808
 
 MOOC (Others)
 --------------
