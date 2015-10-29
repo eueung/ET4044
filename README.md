@@ -36,6 +36,10 @@ Slides
 - [Udacity-04A: Activity Lifecycle and Data ](https://speakerdeck.com/eueung/pptb-10)
 - [Udacity-04B: Content Providers ](https://speakerdeck.com/eueung/pptb-11)
 - [Udacity-04C: Loaders ](https://speakerdeck.com/eueung/pptb-12)
+- [Udacity-05: Rich and Responsive Layouts #1](https://speakerdeck.com/eueung/pptb-13)
+- [Udacity-05: Rich and Responsive Layouts #2](https://speakerdeck.com/eueung/pptb-14)
+- [Udacity-05: Rich and Responsive Layouts #3](https://speakerdeck.com/eueung/pptb-15)
+- [Udacity-06: Services and Notifications](https://speakerdeck.com/eueung/pptb-16)
 
 MOOC (Others)
 --------------
